@@ -1,0 +1,1 @@
+Install Qubes R4.0-rc4|xen|kernel /isolinux/xen.gz console=none|module /isolinux/vmlinuz inst.stage2=hd:LABEL=Qubes-R4.0-rc4-x86_64 i915.preliminary_hw_support=1 quiet rhgb|module /isolinux/initrd.img

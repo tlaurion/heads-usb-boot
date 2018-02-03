@@ -1,0 +1,2 @@
+fc571419e4f2239a3f5accba916072cd9ec83d9f0ab749c913bb6c0831894c29  ./isolinux/vmlinuz
+f3bfe515d8d5a5090e123ca84d5be5506c35b943ae85c40c4d4d4e39e8df500e  ./isolinux/initrd.img
